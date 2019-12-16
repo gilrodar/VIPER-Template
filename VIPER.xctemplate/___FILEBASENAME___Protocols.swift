@@ -29,7 +29,7 @@ protocol ___VARIABLE_ModuleName___PresenterProtocol: class {
 }
 
 protocol ___VARIABLE_ModuleName___InteractorOutputProtocol: class {
-// INTERACTOR -> PRESENTER
+    // INTERACTOR -> PRESENTER
 }
 
 protocol ___VARIABLE_ModuleName___InteractorInputProtocol: class {
